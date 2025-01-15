@@ -23,7 +23,7 @@
 
 ###
 
-<h1 align="center">Hi there!! 👋</h1>
+<h1 align="center">Hi there!! 👋, I'm Ujen Manandhar</h1>
 
 ###
 
@@ -31,7 +31,7 @@
 
 ###
 
-I'm Ujen Manandhar from Nepal
+Eager Explorer: Learning Python with a Passion for Finance and Data Science
 
 - 🔭  Practicing the fine art of doing nothing—it's harder than it looks
 
