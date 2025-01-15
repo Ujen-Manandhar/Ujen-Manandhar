@@ -39,7 +39,7 @@ I'm Ujen Manandhar from Nepal
   
 - ⚡ In my free time I just read
 
--👨‍💻 All of my projects are available at [Repositories](https://github.com/Ujen-Manandhar?tab=repositories)
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/Ujen-Manandhar?tab=repositories)
 
 ###
 
