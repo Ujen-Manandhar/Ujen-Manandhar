@@ -6,10 +6,6 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ujen-manandhar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ujen-manandhar/" height="30" width="40" /></a>
-  <a href="https://mail.google.com/mail/u/0/?fs=1&to=ujenman555+github@gmail.com&tf=cm" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   <a href="https://www.kaggle.com/ujenmanandhar2001" target="blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/ujenmanandhar2001" height="25" alt="kaggle logo"/>
   </a>
