@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">I'm Ujen Manandhar from Nepal.<br><br>- 🔭  Practicing the fine art of doing nothing—it's harder than it looks<br>- 📚 I'm currently learning **Python**<br>- ⚡ In my free time I just read<br>-👨‍💻 All of my projects are available at [https://github.com/Ujen-Manandhar?tab=repositories](https://github.com/Ujen-Manandhar?tab=repositories)</p>
+<p align="left">I'm Ujen Manandhar from Nepal.<br><br>- 🔭  Practicing the fine art of doing nothing—it's harder than it looks<br>- 📚 I'm currently learning **Python**<br>- ⚡ In my free time I just read<br>-👨‍💻 All of my projects are available at [Repositories](https://github.com/Ujen-Manandhar?tab=repositories)</p>
 
 ###
 
