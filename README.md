@@ -68,7 +68,7 @@ Eager Explorer: Learning Python with a Passion for Finance and Data Science
 </div>
 
 ###
-
+<br/>
 <img src="https://raw.githubusercontent.com/Ujen-Manandhar/Ujen-Manandhar/output/snake.svg" alt="Snake animation" />
 
 ###
