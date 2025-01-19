@@ -45,14 +45,18 @@ Eager Explorer: Learning Python with a Passion for Finance and Data Science
   <a href="https://www.python.org/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" /></a>
+  <a href="https://pandas.pydata.org/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
+  <img width="12" /></a>
+  <a href="https://jupyter.org/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
+  <img width="12" /></a>
+  <a href="https://numpy.org/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
+  <img width="12" /></a>
+  <a href="https://git-scm.com/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
+  <img width="12" /></a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"/>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" height="40"/><img width="12" /></a>
