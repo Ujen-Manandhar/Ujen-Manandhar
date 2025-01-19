@@ -9,8 +9,8 @@
   <a href="https://www.kaggle.com/ujenmanandhar2001" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/ujenmanandhar2001" height="30" width="40" />
   </a>
-  <a href="https://www.freecodecamp.org/Ujen2001">
-  <img align="center" src="https://e7.pngegg.com/pngimages/923/998/png-clipart-free-code-camp-logo-icons-logos-emojis-tech-companies.png" alt="https://www.freecodecamp.org/Ujen2001" height="30" width="40" /></a>
+  <a href="https://www.freecodecamp.org/Ujen2001" target="blank">
+  <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdEYAS5G21TR0rxCQ4brJeeRkYTL418LSgCA&s" alt="https://www.freecodecamp.org/Ujen2001" height="30" width="40" /></a>
 </div>
 
 ###
