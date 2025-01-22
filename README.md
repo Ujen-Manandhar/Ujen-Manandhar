@@ -11,6 +11,8 @@
   </a>
   <a href="https://www.freecodecamp.org/Ujen2001" target="blank">
   <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpCpzAlmrfzPB_q16Dbvq0IihxEcGEKTZFLA&s" alt="https://www.freecodecamp.org/Ujen2001" height="40" width="40" /></a>
+   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
 </div>
 
 ###
