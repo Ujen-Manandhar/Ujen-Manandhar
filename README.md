@@ -11,8 +11,6 @@
   </a>
   <a href="https://www.freecodecamp.org/Ujen2001" target="blank">
   <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpCpzAlmrfzPB_q16Dbvq0IihxEcGEKTZFLA&s" alt="https://www.freecodecamp.org/Ujen2001" height="40" width="40" /></a>
-   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
 </div>
 
 ###
@@ -65,6 +63,8 @@ Eager Explorer: Learning Python with a Passion for Finance and Data Science
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" height="40"/><img width="12" /></a>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1024px-Created_with_Matplotlib-logo.svg.png" alt="mathplotlib" height="40"/><img width="12" />
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="12" height="40"/> </a>
 </div>
 
 ###
