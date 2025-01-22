@@ -72,7 +72,7 @@ Eager Explorer: Learning Python with a Passion for Finance and Data Science
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Ujen-Manandhar&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"/><br/>   
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ujen-manandhar&show_icons=true&locale=en&layout=compact" alt="ujen-manandhar" /><br/>   
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ujen-manandhar&theme=dark" alt="ujen-manandhar" />
 </div>
 
